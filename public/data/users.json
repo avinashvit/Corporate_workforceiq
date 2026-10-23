@@ -1,0 +1,35 @@
+[
+  {
+    "id": "USR002",
+    "name": "Sarah Johnson",
+    "email": "hr@workforceiq.com",
+    "password": "hr123",
+    "role": "HR Manager",
+    "department": "Human Resources",
+    "avatar": null,
+    "status": "active",
+    "lastLogin": "2026-10-23T05:59:34.308Z"
+  },
+  {
+    "id": "USR003",
+    "name": "Avinash",
+    "email": "avinash@workforceiq.com",
+    "password": "avinash123",
+    "role": "Employee",
+    "department": "Product Design",
+    "avatar": null,
+    "status": "active",
+    "lastLogin": "2026-10-23T05:34:23.344Z"
+  },
+  {
+    "id": "USR004",
+    "name": "Dinesh",
+    "email": "dinesh@workforceiq.com",
+    "password": "dinesh123",
+    "role": "Employee",
+    "department": "Product Design",
+    "avatar": null,
+    "status": "active",
+    "lastLogin": "2026-10-23T06:00:25.718Z"
+  }
+]

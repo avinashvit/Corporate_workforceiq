@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" fill="none">
+  <defs>
+    <linearGradient id="goldMetallic" x1="4" y1="4" x2="44" y2="44" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FEF08A" />
+      <stop offset="0.3" stop-color="#F59E0B" />
+      <stop offset="0.7" stop-color="#D97706" />
+      <stop offset="1" stop-color="#92400E" />
+    </linearGradient>
+    <linearGradient id="whiteGlow" x1="16" y1="16" x2="32" y2="32" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" />
+      <stop offset="1" stop-color="#FDE68A" />
+    </linearGradient>
+  </defs>
+  <!-- Background Shield/Hexagon -->
+  <rect x="3" y="3" width="42" height="42" rx="12" fill="#12110E" stroke="url(#goldMetallic)" stroke-width="2"/>
+  
+  <!-- Neural / Workforce network lines -->
+  <path d="M14 34L24 14L34 34" stroke="url(#goldMetallic)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M18 26H30" stroke="#FEF08A" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- AI Core Nodes in Crisp White & Radiant Gold -->
+  <circle cx="24" cy="14" r="3.8" fill="#FFFFFF"/>
+  <circle cx="14" cy="34" r="3.2" fill="#FBBF24"/>
+  <circle cx="34" cy="34" r="3.2" fill="#F59E0B"/>
+  <circle cx="24" cy="24" r="2.2" fill="#FFFFFF"/>
+  
+  <!-- Micro pulse ring around AI center -->
+  <circle cx="24" cy="14" r="6" stroke="#FEF08A" stroke-opacity="0.6" stroke-width="1.2"/>
+</svg>
